@@ -29,3 +29,17 @@ See smooth help file for more details.
 {pmore} - If some obs. are missing, the command will split the data instead of fail{p_end}
 {pmore} - Even-span smoothers are not supported{p_end}
 {pmore} - {opt s:moother()} allows spaces, as it's more readable: "4 3RSR 2 H" vs "43RSR2H" (as per the manual, 3RSR is just a 3 repeated that avoids flat regions){p_end}
+
+{marker contact}{...}
+{title:Authors}
+
+{pstd}Noah Constantine{break}
+Board of Governors of the Federal Reserve{break}
+Email: {browse "mailto:noahbconstantine@gmail.com":noahbconstantine@gmail.com}
+{p_end}
+
+{pstd}Sergio Correia{break}
+Board of Governors of the Federal Reserve{break}
+Email: {browse "mailto:sergio.correia@gmail.com":sergio.correia@gmail.com}
+{p_end}
+

@@ -1,0 +1,17 @@
+v 3
+
+d xtsmooth. Panel-data version of the smooth command
+d
+d Author: Noah Constantine, Sergio Correia.
+d Support: sergio.correia@gmail.com
+d
+d KW: collapse
+d
+d Requires: Stata version 11.2
+d Requires: gtools, from SSC/Github
+d
+d Distribution-Date: 20200117
+d
+
+f xtsmooth.ado
+f xtsmooth.sthlp

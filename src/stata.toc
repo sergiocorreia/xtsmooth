@@ -1,0 +1,7 @@
+v 3
+d Miscellaneous Stata packages
+d
+d Author: Noah Constantine, Sergio Correia.
+d Distribution-Date: 20200117
+
+p xtsmooth XTSMOOTH - Panel-data version of smooth

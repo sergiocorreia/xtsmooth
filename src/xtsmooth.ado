@@ -1,4 +1,5 @@
-*! version 0.1.0 17jan2020
+*! version 0.1.1 21jan2020
+*! Authors: Noah Constantine, Sergio Correia
 
 program define xtsmooth
 	syntax varname(numeric) [if] [in] , Generate(name) Smoother(string) [Twice]
